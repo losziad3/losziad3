@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=losziad&label=Profile%20views&color=0e75b6&style=flat" alt="losziad" /> </p>
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
-- 🔭 I’m currently working as a **Software Engineer**
+- 🔭 I’m currently working as a Software Engineer
   
 - 👯 I’m looking to collaborate on **big projects.**
 
@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I am Funny**
  
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1n1fksgh_3d72Z8RpWD9Nwjte19dmYIHC/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YtCP3M3-IQP0kRwcttbl4udk060NNGsC/view?usp=drive_link)
 
 - 💎 Fav Quotes:
     "Don’t stop when you’re tired. Stop when you’re done."
