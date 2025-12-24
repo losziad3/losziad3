@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I am Funny**
  
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YtCP3M3-IQP0kRwcttbl4udk060NNGsC/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VXSbVIueNjpwclZ3HXNLZ5raRbPLqOZg/view?usp=sharing)
 
 - 💎 Fav Quotes:
     "Don’t stop when you’re tired. Stop when you’re done."
