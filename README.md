@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Details of Data Structures & Algorithms**
 
-- 👨‍💻 All of my projects are available on my portfolio [My Portfolio](https://rootbotique.marketeereg.com/)
+- 👨‍💻 All of my projects are available on my portfolio [My Portfolio](https://portfolio-theta-pink-19.vercel.app/)
 
 - 💬 Ask me about **Flutter, Software**
 
